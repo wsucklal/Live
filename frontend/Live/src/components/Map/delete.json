@@ -1,0 +1,124 @@
+Object {
+    "html_attributions": Array [],
+    "results": Array [
+      Object {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "671 Richmond St, London, ON N6A 5M8, Canada",
+        "geometry": Object {
+          "location": Object {
+            "lat": 42.9925493,
+            "lng": -81.25218149999999,
+          },
+          "viewport": Object {
+            "northeast": Object {
+              "lat": 42.99392537989272,
+              "lng": -81.25082912010727,
+            },
+            "southwest": Object {
+              "lat": 42.99122572010727,
+              "lng": -81.2535287798927,
+            },
+          },
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "The Ceeps",
+        "opening_hours": Object {
+          "open_now": true,
+        },
+        "photos": Array [
+          Object {
+            "height": 464,
+            "html_attributions": Array [
+              "<a href=\"https://maps.google.com/maps/contrib/104459642555248895000\">Damanjeet Singh Benipal</a>",
+            ],
+            "photo_reference": "ATplDJZctQLnB999T0rRYvQNE9Mg3hROEQZuai-6SdbzE97yjCGaW-N3oaz_rVFyxk8xH8_2G3CCJKlwJsvVDiooK7OTfGvZMMU5dsv-ZIwDcCIw_0xivNNXWcjgOUGgIAwVq_3BwfjRzuHFfnNbVwdE-yX_77gDjKvGm39qLp4f0mnmZ_vu",
+            "width": 810,
+          },
+        ],
+        "place_id": "ChIJJ-xQKgDyLogRjZqGgDF9X2g",
+        "plus_code": Object {
+          "compound_code": "XPVX+24 London, Ontario, Canada",
+          "global_code": "86JWXPVX+24",
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJJ-xQKgDyLogRjZqGgDF9X2g",
+        "types": Array [
+          "bar",
+          "point_of_interest",
+          "establishment",
+        ],
+        "user_ratings_total": 491,
+      },
+    ],
+    "status": "OK",
+  }
+  Object {
+    "location": Object {
+      "lat": 42.9925493,
+      "lng": -81.25218149999999,
+    },
+    "viewport": Object {
+      "northeast": Object {
+        "lat": 42.99392537989272,
+        "lng": -81.25082912010727,
+      },
+      "southwest": Object {
+        "lat": 42.99122572010727,
+        "lng": -81.2535287798927,
+      },
+    },
+  }
+  Object {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "671 Richmond St, London, ON N6A 5M8, Canada",
+    "geometry": Object {
+      "location": Object {
+        "lat": 42.9925493,
+        "lng": -81.25218149999999,
+      },
+      "viewport": Object {
+        "northeast": Object {
+          "lat": 42.99392537989272,
+          "lng": -81.25082912010727,
+        },
+        "southwest": Object {
+          "lat": 42.99122572010727,
+          "lng": -81.2535287798927,
+        },
+      },
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "The Ceeps",
+    "opening_hours": Object {
+      "open_now": true,
+    },
+    "photos": Array [
+      Object {
+        "height": 464,
+        "html_attributions": Array [
+          "<a href=\"https://maps.google.com/maps/contrib/104459642555248895000\">Damanjeet Singh Benipal</a>",
+        ],
+        "photo_reference": "ATplDJZctQLnB999T0rRYvQNE9Mg3hROEQZuai-6SdbzE97yjCGaW-N3oaz_rVFyxk8xH8_2G3CCJKlwJsvVDiooK7OTfGvZMMU5dsv-ZIwDcCIw_0xivNNXWcjgOUGgIAwVq_3BwfjRzuHFfnNbVwdE-yX_77gDjKvGm39qLp4f0mnmZ_vu",
+        "width": 810,
+      },
+    ],
+    "place_id": "ChIJJ-xQKgDyLogRjZqGgDF9X2g",
+    "plus_code": Object {
+      "compound_code": "XPVX+24 London, Ontario, Canada",
+      "global_code": "86JWXPVX+24",
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJJ-xQKgDyLogRjZqGgDF9X2g",
+    "types": Array [
+      "bar",
+      "point_of_interest",
+      "establishment",
+    ],
+    "user_ratings_total": 491,
+  }
